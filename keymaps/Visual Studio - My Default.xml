@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio - REAL" parent="Visual Studio">
+<keymap version="1" name="Visual Studio - My Default" parent="Visual Studio">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
