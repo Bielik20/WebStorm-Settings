@@ -15,26 +15,17 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
-  <action id="CollapseSelection">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="Diff.SelectedChange" />
   <action id="EditorChooseLookupItemDot" />
@@ -72,9 +63,6 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
@@ -89,20 +77,15 @@
   </action>
   <action id="Print" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="RestoreDefaultLayout" />
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="ctrl period" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="SmartTypeCompletion" />
   <action id="TabShiftActions.MoveFocusDown" />
   <action id="TabShiftActions.MoveFocusLeft">
