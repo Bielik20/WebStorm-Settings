@@ -78,6 +78,8 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
@@ -101,6 +103,7 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="SmartTypeCompletion" />
   <action id="TabShiftActions.MoveFocusDown" />
   <action id="TabShiftActions.MoveFocusLeft">
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
