@@ -89,18 +89,18 @@
   <action id="SmartTypeCompletion" />
   <action id="TabShiftActions.MoveFocusDown" />
   <action id="TabShiftActions.MoveFocusLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="TabShiftActions.MoveFocusRight">
-    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="TabShiftActions.MoveFocusUp" />
   <action id="TabShiftActions.ShiftDown" />
   <action id="TabShiftActions.ShiftLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="TabShiftActions.ShiftRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="TabShiftActions.ShiftUp" />
   <action id="XDebugger.EditWatch" />
