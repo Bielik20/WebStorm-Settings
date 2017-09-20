@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio - My Default" parent="Visual Studio">
+<keymap version="1" name="Windows - Custom" parent="Visual Studio">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -17,7 +17,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -32,6 +32,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
