@@ -72,12 +72,6 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
-  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
@@ -109,25 +103,28 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="SmartTypeCompletion" />
   <action id="TabShiftActions.MoveFocusDown" />
   <action id="TabShiftActions.MoveFocusLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="TabShiftActions.MoveFocusRight">
-    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="TabShiftActions.MoveFocusUp" />
   <action id="TabShiftActions.ShiftDown" />
   <action id="TabShiftActions.ShiftLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="TabShiftActions.ShiftRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="TabShiftActions.ShiftUp" />
   <action id="XDebugger.EditWatch" />
