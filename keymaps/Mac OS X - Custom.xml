@@ -19,6 +19,12 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
@@ -57,7 +63,6 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="OptimizeImports">
@@ -65,7 +70,6 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="QuickImplementations">
@@ -98,10 +102,10 @@
   <action id="TabShiftActions.MoveFocusUp" />
   <action id="TabShiftActions.ShiftDown" />
   <action id="TabShiftActions.ShiftLeft">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
   <action id="TabShiftActions.ShiftRight">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>
   <action id="TabShiftActions.ShiftUp" />
   <action id="TabShiftActions.StretchDown" />
