@@ -103,11 +103,8 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
-  </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="SmartTypeCompletion" />
