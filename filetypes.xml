@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".deployment" type="PLAIN_TEXT" />
+      <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
       <mapping ext="config" type="XML" />
