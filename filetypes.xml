@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="reflect-metadata-functions" type="TypeScript" />
+      <mapping pattern="maps" type="TypeScript" />
+      <mapping pattern="pictures" type="TypeScript" />
+      <mapping pattern="AgeRange" type="TypeScript" />
+      <mapping ext="selectors" type="TypeScript" />
+      <mapping ext="config" type="XML" />
+    </extensionMap>
+  </component>
+</application>
