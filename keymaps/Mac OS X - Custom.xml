@@ -19,7 +19,9 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
@@ -64,6 +66,7 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
@@ -90,6 +93,12 @@
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
   <action id="TabShiftActions.MoveFocusDown" />
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
   <action id="TabShiftActions.MoveFocusUp" />
   <action id="TabShiftActions.ShiftDown" />
   <action id="TabShiftActions.ShiftLeft">
@@ -100,16 +109,27 @@
   </action>
   <action id="TabShiftActions.ShiftUp" />
   <action id="TabShiftActions.StretchDown" />
-  <action id="TabShiftActions.StretchLeft">
-    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
-  </action>
-  <action id="TabShiftActions.StretchRight">
-    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
-  </action>
+  <action id="TabShiftActions.StretchLeft" />
+  <action id="TabShiftActions.StretchRight" />
   <action id="TabShiftActions.StretchUp" />
   <action id="Vcs.Log.Refresh" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow" />
+  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MovePinnedTabsToFirst" />
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabToFirstAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToLastAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNewWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNextWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="com.mnw.tabmover.actions.TogglePinOnAllOpenTabsAction" />
   <action id="hg4idea.QRefresh" />
 </keymap>
