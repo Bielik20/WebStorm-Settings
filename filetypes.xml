@@ -25,6 +25,7 @@
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
       <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
+      <mapping pattern="noise" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
       <mapping ext="selectors" type="TypeScript" />
       <mapping ext="config" type="XML" />
