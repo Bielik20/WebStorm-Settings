@@ -21,6 +21,7 @@
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
