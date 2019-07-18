@@ -117,6 +117,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
