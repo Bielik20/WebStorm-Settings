@@ -14,6 +14,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".gcloudignore" type="IgnoreLang file" />
       <mapping pattern="outside" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
