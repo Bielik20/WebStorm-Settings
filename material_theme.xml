@@ -10,11 +10,10 @@
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="tabOpacity" value="48" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="16" />
     <option name="accentColor" value="ffeb3b" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="319afbd0:163ee09de41:-7fff" />
-    <option name="version" value="4.3.4" />
+    <option name="version" value="4.4.6" />
   </component>
 </application>
