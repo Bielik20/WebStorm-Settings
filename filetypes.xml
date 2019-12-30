@@ -19,6 +19,7 @@
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
       <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
+      <mapping pattern="template-ad-slot" type="TypeScript" />
       <mapping pattern="noise" type="TypeScript" />
       <mapping pattern="state-machine" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
