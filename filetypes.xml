@@ -5,6 +5,7 @@
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern="outside" type="JavaScript" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
