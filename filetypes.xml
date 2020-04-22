@@ -17,12 +17,12 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
-      <mapping pattern="get-ucp-page-type" type="TypeScript" />
       <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
       <mapping pattern="template-ad-slot" type="TypeScript" />
       <mapping pattern="noise" type="TypeScript" />
       <mapping pattern="state-machine" type="TypeScript" />
+      <mapping pattern="get-ucp-page-type" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
       <mapping ext="selectors" type="TypeScript" />
       <mapping ext="config" type="XML" />
