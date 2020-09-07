@@ -5,18 +5,17 @@
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern="outside" type="JavaScript" />
-      <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="AgeRange" type="TypeScript" />
       <mapping pattern="template-ad-slot" type="TypeScript" />
       <mapping pattern="pictures" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
@@ -24,6 +23,7 @@
       <mapping pattern="get-ucp-page-type" type="TypeScript" />
       <mapping pattern="noise" type="TypeScript" />
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
+      <mapping pattern="AgeRange" type="TypeScript" />
       <mapping ext="selectors" type="TypeScript" />
       <mapping ext="config" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
