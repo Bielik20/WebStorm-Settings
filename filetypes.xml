@@ -7,6 +7,7 @@
       <mapping pattern="outside" type="JavaScript" />
       <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
       <mapping pattern=".deployment" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
