@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vendor.js;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="ng" type="HTML" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern="outside" type="JavaScript" />
@@ -29,10 +28,6 @@
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
       <mapping ext="selectors" type="TypeScript" />
       <mapping ext="config" type="XML" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
