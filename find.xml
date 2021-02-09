@@ -19,5 +19,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*yup.ts*</mask>
+    <mask>*.tsx*</mask>
   </component>
 </application>
