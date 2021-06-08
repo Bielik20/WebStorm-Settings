@@ -115,6 +115,7 @@
   <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
