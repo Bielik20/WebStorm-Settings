@@ -29,6 +29,7 @@
       <mapping pattern="get-ucp-page-type" type="TypeScript" />
       <mapping pattern="template-ad-slot" type="TypeScript" />
       <mapping pattern="reflect-metadata-functions" type="TypeScript" />
+      <mapping ext="ts__tmpl__" type="TypeScript" />
       <mapping ext="selectors" type="TypeScript" />
       <mapping ext="config" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
