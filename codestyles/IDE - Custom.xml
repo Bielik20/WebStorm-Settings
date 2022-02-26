@@ -31,6 +31,8 @@
     <option name="USE_PATH_MAPPING" value="DIFFERENT_PATHS" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
+    <option name="FILE_NAME_STYLE" value="LISP_CASE" />
+    <option name="PREFER_AS_TYPE_CAST" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="IMPORTS_WRAP" value="1" />
