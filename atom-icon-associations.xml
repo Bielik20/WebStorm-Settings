@@ -1,0 +1,25 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="serverless">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(serverless|infra(structure)?)$" />
+                  <option name="pattern" value="^[\._]?(serverless|infra(structure)?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="serverless" />
+                  <option name="icon" value="/serverless.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
