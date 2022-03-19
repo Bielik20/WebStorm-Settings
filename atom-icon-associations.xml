@@ -5,15 +5,63 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
-            <entry key="serverless">
+            <entry key="nx-backend-feature">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(serverless|infra(structure)?)$" />
-                  <option name="pattern" value="^[\._]?(serverless|infra(structure)?)$" />
+                  <option name="matcher" value="bf-.*" />
+                  <option name="pattern" value="bf-.*" />
                   <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="serverless" />
+                  <option name="name" value="nx-backend-feature" />
                   <option name="icon" value="/serverless.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-backend-util">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="bu-.*" />
+                  <option name="pattern" value="bu-.*" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-backend-util" />
+                  <option name="icon" value="/server.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-common-util">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="cu-.*" />
+                  <option name="pattern" value="cu-.*" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-common-util" />
+                  <option name="icon" value="/models.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-frontend-feature">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="ff-.*" />
+                  <option name="pattern" value="ff-.*" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-frontend-feature" />
+                  <option name="icon" value="/react.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-frontend-util">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="fu-.*" />
+                  <option name="pattern" value="fu-.*" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-frontend-util" />
+                  <option name="icon" value="/web.svg" />
+                  <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
             </entry>
