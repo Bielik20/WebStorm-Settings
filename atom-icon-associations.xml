@@ -41,6 +41,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="nx-domain">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="domain" />
+                  <option name="pattern" value="domain" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-domain" />
+                  <option name="icon" value="/redux-actions.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="nx-frontend-feature">
               <value>
                 <RegexAssociation>
@@ -61,6 +73,30 @@
                   <option name="touched" value="true" />
                   <option name="name" value="nx-frontend-util" />
                   <option name="icon" value="/web.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-gateways">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="gateways" />
+                  <option name="pattern" value="gateways" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-gateways" />
+                  <option name="icon" value="/redux-epics.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-infra">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="infra" />
+                  <option name="pattern" value="infra" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-infra" />
+                  <option name="icon" value="/redux-sagas.svg" />
                   <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
