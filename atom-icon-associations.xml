@@ -77,18 +77,6 @@
                 </RegexAssociation>
               </value>
             </entry>
-            <entry key="nx-gateways">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?gateways$" />
-                  <option name="pattern" value="^[\._]?gateways$" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="nx-gateways" />
-                  <option name="icon" value="/redux-epics.svg" />
-                  <option name="priority" value="10000" />
-                </RegexAssociation>
-              </value>
-            </entry>
             <entry key="nx-infra">
               <value>
                 <RegexAssociation>
@@ -97,6 +85,18 @@
                   <option name="touched" value="true" />
                   <option name="name" value="nx-infra" />
                   <option name="icon" value="/redux-sagas.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-mediation">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?mediation$" />
+                  <option name="pattern" value="^[\._]?mediation$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-mediation" />
+                  <option name="icon" value="/redux-epics.svg" />
                   <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
