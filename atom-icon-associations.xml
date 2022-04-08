@@ -29,6 +29,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="nx-business">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?business$" />
+                  <option name="pattern" value="^[\._]?business$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-business" />
+                  <option name="icon" value="/redux-actions.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="nx-common-util">
               <value>
                 <RegexAssociation>
@@ -37,18 +49,6 @@
                   <option name="touched" value="true" />
                   <option name="name" value="nx-common-util" />
                   <option name="icon" value="/models.svg" />
-                  <option name="priority" value="10000" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="nx-domain">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?domain$" />
-                  <option name="pattern" value="^[\._]?domain$" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="nx-domain" />
-                  <option name="icon" value="/redux-actions.svg" />
                   <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
