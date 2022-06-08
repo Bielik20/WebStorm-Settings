@@ -1,7 +1,49 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vendor.js;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping pattern="backend-order" type="AUTO_DETECTED" />
+      <mapping pattern="sls-deploy" type="AUTO_DETECTED" />
+      <mapping pattern="update-order-gateway" type="AUTO_DETECTED" />
+      <mapping pattern=".huskyrc" type="JSON" />
+      <mapping pattern=".lintstagedrc" type="JSON" />
+      <mapping pattern="outside" type="JavaScript" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping pattern="state-machine" type="TypeScript" />
+      <mapping pattern="maps" type="TypeScript" />
+      <mapping pattern="AgeRange" type="TypeScript" />
+      <mapping pattern="pictures" type="TypeScript" />
+      <mapping pattern="noise" type="TypeScript" />
+      <mapping pattern="get-ucp-page-type" type="TypeScript" />
+      <mapping pattern="template-ad-slot" type="TypeScript" />
+      <mapping pattern="reflect-metadata-functions" type="TypeScript" />
+      <mapping ext="ts__tmpl__" type="TypeScript" />
+      <mapping ext="selectors" type="TypeScript" />
+      <mapping ext="config" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
