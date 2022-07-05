@@ -21,8 +21,8 @@
     <mask>*.json</mask>
     <mask>sls.yml</mask>
     <mask>*.yml</mask>
+    <mask>*-event.ts</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*-event.ts</mask>
   </component>
 </application>
