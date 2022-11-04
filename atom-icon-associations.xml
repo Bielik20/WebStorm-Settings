@@ -1,5 +1,25 @@
 <application>
   <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="e2e">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^.*\.e2e.ts$" />
+                  <option name="pattern" value="^.*\.e2e.ts$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="e2e" />
+                  <option name="icon" value="/icons/files/robots.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
     <option name="selectedFolderAssociations">
       <SelectedAssociations>
         <option name="iconType" value="FOLDER" />
