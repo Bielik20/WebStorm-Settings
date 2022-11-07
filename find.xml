@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,8 +23,8 @@
     <mask>*-event.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.yml</mask>
     <mask>*.state.ts</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
