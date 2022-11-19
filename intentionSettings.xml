@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
     <ignoreAction name="JavaScript/ECMAScript 6/Change ES6 import " />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
