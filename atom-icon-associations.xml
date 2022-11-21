@@ -25,6 +25,18 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="async">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(async?)$" />
+                  <option name="pattern" value="^[\._]?(async?)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="async" />
+                  <option name="icon" value="/events.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="nx-backend-feature">
               <value>
                 <RegexAssociation>
