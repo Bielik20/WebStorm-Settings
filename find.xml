@@ -21,9 +21,9 @@
     <mask>sls.yml</mask>
     <mask>*-event.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*.state.ts</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
