@@ -15,6 +15,7 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -31,7 +32,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value=".inheritors" />
+    <option name="lastViewedProviderKeyId" value=".references" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>
