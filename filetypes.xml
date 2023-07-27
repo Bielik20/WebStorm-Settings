@@ -10,6 +10,7 @@
       <mapping pattern="outside" type="JavaScript" />
       <mapping pattern=".env.serve.development" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dynamic" type="PLAIN_TEXT" />
       <mapping pattern="Deckerfile" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern=".lib.swcrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env.live" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
