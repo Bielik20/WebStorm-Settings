@@ -25,5 +25,6 @@
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>project.json</mask>
   </component>
 </application>
