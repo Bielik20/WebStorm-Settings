@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,7 +29,7 @@
     <mask>schema.json</mask>
     <mask>*.yml</mask>
     <mask>project.json</mask>
-    <mask>*.json</mask>
     <mask>jest.config.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
