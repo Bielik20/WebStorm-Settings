@@ -25,11 +25,11 @@
     <mask>*.tsx</mask>
     <mask>*.state.ts</mask>
     <mask>*.ts</mask>
-    <mask>schema.json</mask>
     <mask>*.yml</mask>
     <mask>project.json</mask>
     <mask>jest.config.ts</mask>
     <mask>*.json</mask>
     <mask>tsconfig.spec.json</mask>
+    <mask>schema.json</mask>
   </component>
 </application>
