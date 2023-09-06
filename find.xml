@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,12 +23,12 @@
     <mask>*-event.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.state.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.yml</mask>
     <mask>project.json</mask>
     <mask>jest.config.ts</mask>
     <mask>*.json</mask>
     <mask>tsconfig.spec.json</mask>
     <mask>schema.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
