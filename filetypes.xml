@@ -5,6 +5,7 @@
       <mapping pattern="backend-order" type="AUTO_DETECTED" />
       <mapping pattern="sls-deploy" type="AUTO_DETECTED" />
       <mapping pattern="update-order-gateway" type="AUTO_DETECTED" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern="outside" type="JavaScript" />
@@ -31,6 +32,7 @@
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="lockb" type="PLAIN_TEXT" />
       <mapping pattern="state-machine" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
