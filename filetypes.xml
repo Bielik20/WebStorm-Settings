@@ -33,6 +33,7 @@
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="lockb" type="PLAIN_TEXT" />
+      <mapping ext="js__tmpl__" type="PLAIN_TEXT" />
       <mapping pattern="state-machine" type="TypeScript" />
       <mapping pattern="maps" type="TypeScript" />
       <mapping pattern="AgeRange" type="TypeScript" />
