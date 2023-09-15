@@ -5,7 +5,6 @@
       <mapping pattern="backend-order" type="AUTO_DETECTED" />
       <mapping pattern="sls-deploy" type="AUTO_DETECTED" />
       <mapping pattern="update-order-gateway" type="AUTO_DETECTED" />
-      <mapping ext="ng" type="HTML" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern="outside" type="JavaScript" />
