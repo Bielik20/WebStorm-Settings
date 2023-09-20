@@ -20,7 +20,6 @@
     <mask>*.tsx*</mask>
     <mask>sls.yml</mask>
     <mask>*-event.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.state.ts</mask>
     <mask>*.yml</mask>
     <mask>project.json</mask>
@@ -29,5 +28,6 @@
     <mask>tsconfig.spec.json</mask>
     <mask>schema.json</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
