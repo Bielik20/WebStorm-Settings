@@ -30,7 +30,5 @@
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
-    <entry key="ide.experimental.ui.inter.font" value="false" />
-    <entry key="idea.plugins.compatible.build" value="" />
   </component>
 </application>
