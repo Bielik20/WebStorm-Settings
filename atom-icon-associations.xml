@@ -133,8 +133,73 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="nx-sls">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*sls" />
+                  <option name="pattern" value=".*sls" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-sls" />
+                  <option name="icon" value="/serverless.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="7fa1b3" />
+                  <option name="folderColor" value="a7adba" />
+                  <option name="folderIconColor" value="7fa1b3" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-sls-api">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*sls-api" />
+                  <option name="pattern" value=".*sls-api" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-sls-api" />
+                  <option name="icon" value="/models.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="7fa1b3" />
+                  <option name="folderColor" value="a7adba" />
+                  <option name="folderIconColor" value="7fa1b3" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-sls-e2e">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?sls-e2e" />
+                  <option name="pattern" value="^[\._]?sls-e2e" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-sls-e2e" />
+                  <option name="icon" value="/jest.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="7fa1b3" />
+                  <option name="folderColor" value="a7adba" />
+                  <option name="folderIconColor" value="7fa1b3" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="nx-web-e2e">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*web-e2e" />
+                  <option name="pattern" value=".*web-e2e" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="nx-web-e2e" />
+                  <option name="icon" value="/playwright.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="7fa1b3" />
+                  <option name="folderColor" value="a7adba" />
+                  <option name="folderIconColor" value="7fa1b3" />
+                </RegexAssociation>
+              </value>
+            </entry>
           </map>
         </option>
+      </SelectedAssociations>
+    </option>
+    <option name="selectedFolderOpenAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER_OPEN" />
       </SelectedAssociations>
     </option>
   </component>
