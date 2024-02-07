@@ -52,8 +52,8 @@
             <entry key="nx-backend-util">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="bu-.*" />
-                  <option name="pattern" value="bu-.*" />
+                  <option name="matcher" value=".*bu-.*" />
+                  <option name="pattern" value=".*bu-.*" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-backend-util" />
                   <option name="icon" value="/server.svg" />
@@ -76,8 +76,8 @@
             <entry key="nx-common-util">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="cu-.*" />
-                  <option name="pattern" value="cu-.*" />
+                  <option name="matcher" value=".*cu-.*" />
+                  <option name="pattern" value=".*cu-.*" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-common-util" />
                   <option name="icon" value="/models.svg" />
@@ -100,8 +100,8 @@
             <entry key="nx-frontend-util">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="fu-.*" />
-                  <option name="pattern" value="fu-.*" />
+                  <option name="matcher" value=".*fu-.*" />
+                  <option name="pattern" value=".*fu-.*" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-frontend-util" />
                   <option name="icon" value="/web.svg" />
