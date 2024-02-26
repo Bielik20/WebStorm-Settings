@@ -29,5 +29,6 @@
     <mask>schema.json</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
