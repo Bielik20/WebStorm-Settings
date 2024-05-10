@@ -26,6 +26,7 @@
   <component name="DeclarativeInlayHintsSettings">
     <option name="disabledOptions">
       <set>
+        <option value="ts.type.hints#function.returns" />
         <option value="ts.type.hints#non.paren.single.param" />
         <option value="ts.type.hints#parameters.in.parens" />
         <option value="ts.type.hints#variables.and.fields" />
