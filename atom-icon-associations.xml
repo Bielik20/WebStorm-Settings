@@ -56,7 +56,7 @@
                   <option name="pattern" value=".*-common" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-common-util" />
-                  <option name="icon" value="/models.svg" />
+                  <option name="icon" value="/shared.svg" />
                   <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
@@ -68,7 +68,7 @@
                   <option name="pattern" value=".*-frontend" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-frontend-util" />
-                  <option name="icon" value="/web.svg" />
+                  <option name="icon" value="/client.svg" />
                   <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
