@@ -115,8 +115,8 @@
             <entry key="nx-sls-api">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value=".*sls-api" />
-                  <option name="pattern" value=".*sls-api" />
+                  <option name="matcher" value=".*api" />
+                  <option name="pattern" value=".*api" />
                   <option name="touched" value="true" />
                   <option name="name" value="nx-sls-api" />
                   <option name="icon" value="/swagger.svg" />
