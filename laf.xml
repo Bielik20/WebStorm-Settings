@@ -1,9 +1,9 @@
 <application>
-  <component name="LafManager" autodetect="true">
-    <laf themeId="ExperimentalLight" />
+  <component name="LafManager">
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Twilight" />
-      <laf-to-scheme laf="ExperimentalLight" scheme="_@user_WarmNeon" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="Material Oceanic - Custom" />
+      <laf-to-scheme laf="ExperimentalLight" scheme="_@user_Github" />
       <laf-to-scheme laf="a6b84a05-cf51-40b1-a71f-ae9474d53615" scheme="Material Oceanic - Custom" />
     </lafs-to-previous-schemes>
   </component>
