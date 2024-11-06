@@ -1,7 +1,4 @@
 <application>
-  <component name="LearnProjectState">
-    <option name="firstTimeOpenedWay" value="ONBOARDING_PROMOTER" />
-  </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
@@ -26,7 +23,7 @@
         <entry key="git.interactiverebase" value="NOT_PASSED" />
         <entry key="git.projecthistory" value="NOT_PASSED" />
         <entry key="git.quickstart" value="NOT_PASSED" />
-        <entry key="idea.onboarding" value="NOT_PASSED" />
+        <entry key="idea.onboarding" value="PASSED" />
         <entry key="java.refactoring.menu" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
