@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="23" />
       <type value="JavaSDK" />
-      <version value="java version &quot;23.0.1&quot;" />
+      <version value="Homebrew OpenJDK 23.0.1 - aarch64" />
       <homePath value="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
